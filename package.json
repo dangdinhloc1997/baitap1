@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "angular": "^1.8.2",
+    "bootstrap": "^5.2.1",
+    "init": "^0.1.2",
+    "jquery": "^3.6.0"
+  }
+}
